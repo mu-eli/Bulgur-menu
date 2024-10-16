@@ -76,7 +76,6 @@ ul {
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    white-space: nowrap;
     margin: 0;
     padding-left: 5%;
 }
